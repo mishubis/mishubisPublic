@@ -14,8 +14,8 @@ class AuthPage(WebPage):
     password = WebElement(id='password')
     btn_login = WebElement(id='kc-login')
     auth_title = WebElement(xpath='//*[@id="page-right"]/div/div/h1')
-    registration_link = WebElement(id='kc-register')                                                # проверено
-    phone_tab = WebElement(id='t-btn-tab-phone')                                                    # проверено
+    registration_link = WebElement(id='kc-register')                                               
+    phone_tab = WebElement(id='t-btn-tab-phone')                                                 
     logo_lk = WebElement(xpath='//*[@id="page-left"]/div/div[2]/h2')
     auth_form = WebElement(xpath='//*[@id="page-left"]/div/div')
     lk_form = WebElement(xpath='//*[@id="page-right"]/div/div[2]')
