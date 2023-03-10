@@ -3,8 +3,7 @@
 Файлы
 -----
 
-[conftest.py](conftest.py) contains all the required code to catch failed test cases and make screenshot
-of the page in case any test case will fail.
+[conftest.py](conftest.py) содержит код для обработки упавших тестов и создания скриншотов.
 
 [tests/base.py](tests/base.py) содержит библиотеку Smart Page Object
 
