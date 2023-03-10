@@ -3,7 +3,6 @@ import pytest
 from auth_page28 import AuthPage
 from registration_page28 import RegPage
 
-""" запуск тестов на моем компе из терминала PyCharm: pytest -v --driver Chrome --driver-path D:/chromedriver.exe tests/test_rostelecom.py"""
 
 # Тест-кейс N-01
 # Корректное отображение "Стандартной страницы авторизации"
