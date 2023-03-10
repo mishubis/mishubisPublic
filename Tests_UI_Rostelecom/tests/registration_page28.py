@@ -15,7 +15,7 @@ class RegPage(WebPage):
     password_confirmation_field_text = WebElement(xpath='//*[@id="page-right"]/div/div/div/form/div[4]/div[2]/div/span[2]')
     continue_button = WebElement(xpath='//*[@id="page-right"]/div/div/div/form/button')
 
-    name_field = WebElement(xpath='//*[@id="page-right"]/div/div/div/form/div[1]/div[1]/div/input')     # //*[@id="page-right"]/div/div/div/form/div[1]/div[1]/div/input
+    name_field = WebElement(xpath='//*[@id="page-right"]/div/div/div/form/div[1]/div[1]/div/input')     
     last_name_field = WebElement(xpath='//*[@id="page-right"]/div/div/div/form/div[1]/div[2]/div/input')
     region_field = WebElement(xpath='//*[@id="page-right"]/div/div/div/form/div[2]/div/div/input')
     email_or_mobile_phone_field = WebElement(xpath='//*[@id="page-right"]/div/div/div/form/div[3]/div/input')
