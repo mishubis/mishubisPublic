@@ -98,6 +98,6 @@
 
 2) Скачать Selenium WebDriver https://chromedriver.chromium.org/downloads (выбрать версию, совместимую с вашим браузером)
 
-3) Запус тестов (на примере вебдрайвера Chrome):
+3) Запуск тестов (на примере вебдрайвера Chrome):
 
     pytest -v --driver Chrome --driver-path chromedriver.exe test_rostelecom.py
