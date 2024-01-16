@@ -1,9 +1,13 @@
 Содержание репозитория #mishubisPublic
 
-Manual_testing_Petfriends_API - ручное тестирование API сайта Petfriends.
+Весь код написан на Python.
+
+Manual_testing_Petfriends_API - ручное тестирование API сайта Petfriends (тест-кейсы).
 
 Tests_UI_Rostelecom - автоматическое тестирование интерфейса регистрации и авторизации в Ростелеком.
 
 Currency_Converter_Bot - телеграм бот, выдающий информацию о курсах валют.
+
+M-16-7-1 - пример создания классов и работы с ними.
 
 
